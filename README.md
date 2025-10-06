@@ -19,7 +19,8 @@ In the fast-paced taxi industry, maximizing revenue is crucial for driver profit
 ---
 
 ## Dataset
-- Source: NYC Yellow Taxi Trip Records (January 2020)
+- Source: NYC Yellow Taxi Trip Records 
+-  [👉 Download Dataset from Google Drive](https://drive.google.com/file/d/1hilVGbkrRep-hb8U2QXgpw7MgKgEmVPz/view?usp=sharing)
 - Key Columns Used:
   - `passenger_count` — Number of passengers
   - `trip_distance` — Distance of the trip
